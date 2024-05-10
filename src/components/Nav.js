@@ -1,11 +1,11 @@
 import React from 'react'
+import logo from '../img/logo2.png'
 
 function Nav() {
   return (
     <div className='nav-container'>
       <div className='nav-logo-container'>
-        Logo
-        <img src='' alt=''></img>
+        <img src={logo} alt='' className='logo'></img>
       </div>
 
       <div className='nav-link-container'>

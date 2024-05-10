@@ -33,6 +33,15 @@
 
 }
 
+.nav-logo-container{
+  width: 30%;
+}
+
+.logo{
+  width: 50%;
+
+}
+
 .main-container{
   height: 100vh;
   background-image: url('./img/main_background.jpg');
