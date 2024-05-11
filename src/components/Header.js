@@ -2,11 +2,18 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>
-      <h1>Dlaczego wybrać</h1>
-      <h1 style={{color:'blue'}}>LukMat</h1>
-      <h3>Some text extra to info</h3>
-      <button>Chcesz wiecej </button>
+    <div className='header-container'>
+      <h1>Dlaczego wybrać <br></br> LukMat</h1>
+    
+
+      <div className='header-info'>
+        <div className='header-text'>
+         <h1>Some text extra to info</h1> 
+        </div>
+        
+      </div>
+      
+      
     </div>
   )
 }
