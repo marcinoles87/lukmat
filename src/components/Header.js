@@ -10,6 +10,7 @@ function Header() {
         <div className='header-info-back'>
           <div className='header-text'>
             <h1>Some text extra to info</h1> 
+            <p></p>
           </div>
          
         </div>
