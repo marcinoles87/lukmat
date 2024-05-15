@@ -7,7 +7,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:"Nunito", sans-serif;
+  font-family:"Freeman", sans-serif;
+  font-weight: 300;
 }
 
 
@@ -63,6 +64,7 @@
 }
 
 .main-info{
+  width: 100%;
   position: absolute;
   top:50%;
   left: 50%;
@@ -72,7 +74,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-size: 2.3rem;
+  font-size: 2.1rem;
 }
 
 .main-info button{
@@ -101,6 +103,9 @@
 
 .header-container h1{
   margin-bottom: 50px;
+  font-size: 2.7rem;
+  text-align: center;
+  color: var(--main-color);
 }
 
 .header-info{
@@ -141,7 +146,7 @@
   text-decoration: none;
   color:white;
   margin: 20px 20px;
-  transition: 0.5s ease;
+  transition: 0.1s ease;
 
 }
 
@@ -170,6 +175,45 @@
 .header-text button:hover{
   background-color: black;
   
+}
+
+
+/*offer */
+
+.offer-container{
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto;
+  
+}
+
+.offer-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.offer-cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.offer-one-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  
+}
+
+.offer-one-card img{
+  width: 100%;
+  object-fit: contain;
 }
 
 

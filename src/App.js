@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 import './App.css';
+import Offer from './components/Offer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Nav></Nav>
       <Main></Main>
       <Header></Header>
+      <Offer></Offer>
       <Footer></Footer>
       
     </div>

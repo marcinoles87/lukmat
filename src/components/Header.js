@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <div className='header-container'>
-      <h1>Dlaczego wybrać <br></br> LukMat</h1>
+      <h1>DLACZEGO WARTO WYBRAĆ<br></br> LukMat Mechanika</h1>
     
 
       <div className='header-info'>

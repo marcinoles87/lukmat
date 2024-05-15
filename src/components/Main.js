@@ -5,7 +5,7 @@ function Main() {
     <div className='main-container'>
 
       <div className='main-info'>
-        <h1>Stawiamy na Jakośc </h1>
+        <h1>STAWIAMY NA JAKOŚĆ</h1>
       <h2>Chcesz nas poznać bliżej </h2>
       <button>Kliknij</button>
       </div>
