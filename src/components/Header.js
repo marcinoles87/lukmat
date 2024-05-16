@@ -13,7 +13,7 @@ function Header() {
             <div className='header-text-link'>
               <a href='#'>Jakośc</a>
               <a href='#'>Technika</a>
-              <a href='#'>Prezycja</a>
+              <a href='#'>Precyzja</a>
             </div>
          
             <h1>Some text extra </h1> 

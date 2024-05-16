@@ -1,6 +1,7 @@
 :root{
   --main-color:rgb(63, 159, 207);
   --second-color:#0074e8;
+  --p-color:rgb(51, 51, 51);
 }
 
 *{
@@ -219,5 +220,29 @@
   object-fit: contain;
   margin-bottom: 50px;
 }
+
+.offer-one-card p{
+  color:var(--p-color);
+}
+
+/*import*/
+
+.import-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.import-header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.import-header p{
+  color: var(--p-color);
+}
+
+
 
 

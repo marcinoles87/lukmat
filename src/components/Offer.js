@@ -15,19 +15,19 @@ function Offer() {
         <div className='offer-cards'>
             <div className='offer-one-card'>
                 <img src={card1} alt='1'></img>
-                <h3>Oleje</h3>
+                <h2>Oleje</h2>
                 <p>Poznaj wszystkie zalety PEUGEOT w zaciszu własnego domu.Bezzwłocznie odkryj i zamów swoje następne auto.</p>
             </div>
 
             <div className='offer-one-card'>
                 <img src={card2} alt='1'></img>
-                <h3>Hamulce</h3>
+                <h2>Hamulce</h2>
                 <p>Poznaj wszystkie zalety PEUGEOT w zaciszu własnego domu.Bezzwłocznie odkryj i zamów swoje następne auto.</p>
             </div>
 
             <div className='offer-one-card'>
                 <img src={card3} alt='1'></img>
-                <h3>Opony</h3>
+                <h2>Opony</h2>
                 <p>Poznaj wszystkie zalety PEUGEOT w zaciszu własnego domu.Bezzwłocznie odkryj i zamów swoje następne auto.</p>
             </div>
         </div>
