@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import './App.css';
 import Offer from './components/Offer';
 import Import from './components/Import';
+import Marki from './components/Marki';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
 
       <Nav></Nav>
       <Main></Main>
+      <Marki></Marki>
       <Header></Header>
       <Offer></Offer>
       <Import></Import>
