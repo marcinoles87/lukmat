@@ -56,6 +56,36 @@
 
 }
 
+/*marki*/
+
+.brands-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.brand-one{
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  
+}
+
+.brand-one img{
+  width: 100%;
+  height: auto;
+  filter: grayscale(1);
+  transition: 0.5s ease;
+}
+
+.brand-one img:hover{
+  filter: grayscale(0);
+}
+
 .main-container{
   height: 100vh;
   background-image: url('./img/main_background.jpg');
@@ -275,6 +305,9 @@
   height: 300px;
   object-fit: contain;
 }
+
+
+
 
 
 
