@@ -10,9 +10,10 @@ function Nav() {
 
       <div className='nav-link-container'>
         <ul>
-        <a href='#' className='nav-link-item'>O Nas</a>
-        <a href='#'  className='nav-link-item'>Nasze Marki</a>
+        <a href='#oNas' className='nav-link-item'>O Nas</a>
+        <a href='#Marki'  className='nav-link-item'>Nasze Marki</a>
         <a href='#'  className='nav-link-item'>Co robimy</a>
+        <a href='#Czesci'  className='nav-link-item'>Części</a>
         <a href='#'  className='nav-link-item'>Sprowadzanie aut z Francji</a>
         <a href='#'  className='nav-link-item'>Kontakt</a>
         </ul>

@@ -6,7 +6,7 @@ import card3 from '../img/opony.jpg'
 
 function Offer() {
   return (
-    <div className='offer-container'>
+    <div className='offer-container' id='Czesci'>
         <div className='offer-header'>
             <h1>ZAMÓW I ODBIERZ JUŻ JUTRO</h1>
             <p>Kup nowego Peugeot dopasowanego do Twoich potrzeb za pośrednictwem naszej strony internetowej lub w wybranym salonie sprzedaży.</p>

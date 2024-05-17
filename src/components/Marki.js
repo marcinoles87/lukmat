@@ -16,7 +16,7 @@ function Marki()
 
       
 
-<div className='brands-container'>
+<div className='brands-container' id='Marki'>
           {brands.map( (item) => {
           return(
             <div className='brand-one'>

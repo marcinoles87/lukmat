@@ -3,7 +3,7 @@ import logo from '../img/logo2.png'
 
 function Header() {
   return (
-    <div className='header-container'>
+    <div className='header-container' id='oNas'>
       <h1>DLACZEGO WARTO WYBRAĆ<br></br> LukMat Mechanika</h1>
     
 
