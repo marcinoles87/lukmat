@@ -35,7 +35,7 @@
 }
 
 .nav-link-container a{
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   letter-spacing: 2px;
   text-decoration: none;
   color:white;
@@ -251,17 +251,25 @@
   align-items: center;
   text-align: center;
   width: 30%;
+  padding: 30px;
+  background-color: black;
+  color:var(--second-color);
+  border-radius: 20px;
+  
   
 }
 
 .offer-one-card img{
-  width: 100%;
-  object-fit: contain;
+  width: 300px;
+  height: 260px;
+  object-fit: cover;
   margin-bottom: 50px;
+  border-radius: 10px;
+
 }
 
 .offer-one-card p{
-  color:var(--p-color);
+  color:white;
 }
 
 /*import*/
@@ -313,6 +321,30 @@
   width: 100%;
   height: 60%;
   /* object-fit: contain; */
+}
+
+
+/*footer-contact*/
+
+.footer-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color:white;
+  padding: 50px;
+}
+
+.contact{
+  width: 30%;
+  font-size: 1.5rem;
+  transition: 1s ease;
+  cursor: pointer;;
+}
+
+.contact h3:hover{
+  color:var(--main-color)
 }
 
 

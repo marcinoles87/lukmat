@@ -1,14 +1,14 @@
 import React from 'react'
 
-import card1 from '../img/card1.avif'
-import card2 from '../img/card2.avif'
-import card3 from '../img/card3.avif'
+import card1 from '../img/olej.jpg'
+import card2 from '../img/hamulce.jpg'
+import card3 from '../img/opony.jpg'
 
 function Offer() {
   return (
     <div className='offer-container'>
         <div className='offer-header'>
-            <h1>ZAMOW U NAS CZESCI</h1>
+            <h1>ZAMÓW I ODBIERZ JUŻ JUTRO</h1>
             <p>Kup nowego Peugeot dopasowanego do Twoich potrzeb za pośrednictwem naszej strony internetowej lub w wybranym salonie sprzedaży.</p>
         </div>
 

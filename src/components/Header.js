@@ -17,7 +17,7 @@ function Header() {
               <a href='#'>Precyzja</a>
             </div>
          
-            <h1>Some text extra </h1> 
+            <h1>Indywidualne podejście do klienta</h1> 
             <p>Najnowszej generacji Peugeot i-Cockpit® z kompaktową kierownicą oferuje najwyższej jakości ergonomię i technologie, które pozwolą Ci cieszyć się jazdą z zupełnie innej perspektywy.
               </p>
 
