@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/lukmat/static/css/main.aeaaa85a.css",
+    "main.js": "/lukmat/static/js/main.3997b253.js",
+    "static/js/453.d54b5b65.chunk.js": "/lukmat/static/js/453.d54b5b65.chunk.js",
+    "static/media/main_background.jpg": "/lukmat/static/media/main_background.4677b2e32dbb250df144.jpg",
+    "static/media/header_background.jpg": "/lukmat/static/media/header_background.c424c5255fa5dcebbdd7.jpg",
+    "static/media/hondaLogo.png": "/lukmat/static/media/hondaLogo.a1b1a8f48c87b66526da.png",
+    "static/media/toyotaLogo.png": "/lukmat/static/media/toyotaLogo.379ca0868131ec81bb65.png",
+    "static/media/peugeotLogo2.png": "/lukmat/static/media/peugeotLogo2.5e184880ac043ebd2a95.png",
+    "static/media/opony.jpg": "/lukmat/static/media/opony.c10e797722ea801afeca.jpg",
+    "static/media/hamulce.jpg": "/lukmat/static/media/hamulce.1a865ceb3a9aeeb25dc9.jpg",
+    "static/media/audiLogo.png": "/lukmat/static/media/audiLogo.2473983e20bfd27d596c.png",
+    "static/media/import2.jpg": "/lukmat/static/media/import2.b0807a55614862ed93cb.jpg",
+    "static/media/olej.jpg": "/lukmat/static/media/olej.e7ec2f9b9cd56e0c222b.jpg",
+    "static/media/logo2.png": "/lukmat/static/media/logo2.0060a40fcb02bdee6e61.png",
+    "static/media/bmwLogo.png": "/lukmat/static/media/bmwLogo.42965fcc512c4b8f79b7.png",
+    "static/media/import1.avif": "/lukmat/static/media/import1.25d777e05b723135c818.avif",
+    "static/media/renaultLogo.jpg": "/lukmat/static/media/renaultLogo.361d13e9195baf6dd8d5.jpg",
+    "index.html": "/lukmat/index.html",
+    "main.aeaaa85a.css.map": "/lukmat/static/css/main.aeaaa85a.css.map",
+    "main.3997b253.js.map": "/lukmat/static/js/main.3997b253.js.map",
+    "453.d54b5b65.chunk.js.map": "/lukmat/static/js/453.d54b5b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeaaa85a.css",
+    "static/js/main.3997b253.js"
+  ]
+}
