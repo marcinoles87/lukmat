@@ -1,4 +1,5 @@
 import React from 'react'
+import logo from '../img/logo2.png'
 
 function Header() {
   return (
@@ -22,6 +23,8 @@ function Header() {
 
               <button>ZAREZERWUJ TERMIN</button>
           </div>
+
+          <img src={logo} alt='logo'></img>
          
         </div>
         
