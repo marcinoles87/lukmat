@@ -2,14 +2,15 @@ import React from 'react'
 
 import audiLogo from '../img/audiLogo.png'
 import bmwLogo from '../img/bmwLogo.png'
-import peugeotLogo from '../img/peugeotLogo.png'
+import peugeotLogo from '../img/peugeotLogo2.png'
 import renaultLogo from '../img/renaultLogo.jpg'
 import toyotaLogo from '../img/toyotaLogo.png'
+import hondaLogo from '../img/hondaLogo.png'
 
 function Marki() 
 {
 
-  const brands = [audiLogo,bmwLogo,peugeotLogo,renaultLogo,toyotaLogo]
+  const brands = [audiLogo,bmwLogo,peugeotLogo,renaultLogo,toyotaLogo,hondaLogo]
   return (
     <div>
 
