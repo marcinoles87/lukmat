@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lukmat/static/css/main.062b6e0e.css",
+    "main.css": "/lukmat/static/css/main.2800341b.css",
     "main.js": "/lukmat/static/js/main.10466784.js",
     "static/js/453.d54b5b65.chunk.js": "/lukmat/static/js/453.d54b5b65.chunk.js",
     "static/media/main_background.jpg": "/lukmat/static/media/main_background.4677b2e32dbb250df144.jpg",
@@ -18,12 +18,12 @@
     "static/media/import1.avif": "/lukmat/static/media/import1.25d777e05b723135c818.avif",
     "static/media/renaultLogo.jpg": "/lukmat/static/media/renaultLogo.361d13e9195baf6dd8d5.jpg",
     "index.html": "/lukmat/index.html",
-    "main.062b6e0e.css.map": "/lukmat/static/css/main.062b6e0e.css.map",
+    "main.2800341b.css.map": "/lukmat/static/css/main.2800341b.css.map",
     "main.10466784.js.map": "/lukmat/static/js/main.10466784.js.map",
     "453.d54b5b65.chunk.js.map": "/lukmat/static/js/453.d54b5b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.062b6e0e.css",
+    "static/css/main.2800341b.css",
     "static/js/main.10466784.js"
   ]
 }
