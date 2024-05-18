@@ -8,18 +8,34 @@ import './App.css';
 import Offer from './components/Offer';
 import Import from './components/Import';
 import Marki from './components/Marki';
+import { Routes , Route} from 'react-router-dom';
+import Historia from './pages/Historia';
 
 function App() {
   return (
     <div className="App">
 
-      <Nav></Nav>
-      <Main></Main>
-      <Marki></Marki>
-      <Header></Header>
-      <Offer></Offer>
-      <Import></Import>
-      <Footer></Footer>
+<Routes>
+
+  <Route path='/' element={
+       <>
+           <Nav></Nav>
+          <Main></Main>
+          <Marki></Marki>
+          <Header></Header>
+          <Offer></Offer>
+          <Import></Import>
+          <Footer></Footer>
+          </>
+
+  } />
+        
+         <Route path='/historia' element={<Historia></Historia>}/>
+    
+      
+      </Routes>
+
+      
       
     </div>
   );

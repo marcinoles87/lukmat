@@ -6,7 +6,7 @@ import import2 from '../img/import2.jpg'
 function Import
 () {
   return (
-    <div className='import-container'>
+    <div className='import-container' id='Import'>
         <div className='import-header'>
             <h1>NAJLEPSZA OFERTA DOTYCZACA SPROWADZANIA AUT Z FRANCJI</h1>
             <p>Odkryj wszystkie zalety współpracy bez wychodzenia z domu i zamów wymarzony model w dowolnej chwili.</p>

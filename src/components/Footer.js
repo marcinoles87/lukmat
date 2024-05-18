@@ -4,7 +4,7 @@ import logo from '../img/logo2.png'
 
 function Footer() {
   return (
-    <div className='footer-container'>
+    <div className='footer-container' id='Kontakt'>
       <div className='contact'>
         <h3>Email : lukmat@gmail.com</h3>
         <h3>Phone : 666-666-666</h3>
