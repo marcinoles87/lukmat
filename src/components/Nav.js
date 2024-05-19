@@ -12,7 +12,6 @@ function Nav() {
       <div className='nav-link-container'>
         <ul>
         <a href='#oNas' className='nav-link-item'>O Nas</a>
-        <Link to={'/historia'}>Historia</Link>
         <a href='#Marki'  className='nav-link-item'>Nasze Marki</a>
         <a href='#oNas'  className='nav-link-item'>Co robimy</a>
         <a href='#Czesci'  className='nav-link-item'>Części</a>

@@ -17,9 +17,9 @@ function Marki()
       
 
 <div className='brands-container' id='Marki'>
-          {brands.map( (item) => {
+          {brands.map( (item ,index) => {
           return(
-            <div className='brand-one'>
+            <div className='brand-one' key={index}>
               <img src={item} alt=""></img>
               </div>
             

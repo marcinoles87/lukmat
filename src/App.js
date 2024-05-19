@@ -10,6 +10,9 @@ import Import from './components/Import';
 import Marki from './components/Marki';
 import { Routes , Route} from 'react-router-dom';
 import Historia from './pages/Historia';
+import Hamulce from './pages/Hamulce';
+import Oleje from './pages/Oleje';
+import Opony from './pages/Opony';
 
 function App() {
   return (
@@ -17,7 +20,7 @@ function App() {
 
 <Routes>
 
-  <Route path='/' element={
+  <Route path='*' element={
        <>
            <Nav></Nav>
           <Main></Main>
@@ -31,6 +34,9 @@ function App() {
   } />
         
          <Route path='/historia' element={<Historia></Historia>}/>
+         <Route path='/hamulce' element={<Hamulce></Hamulce>}/>
+         <Route path='/oleje' element={<Oleje></Oleje>}/>
+         <Route path='/opony' element={<Opony></Opony>}/>
     
       
       </Routes>
