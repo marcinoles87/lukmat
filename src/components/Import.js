@@ -1,6 +1,6 @@
 import React from 'react'
 
-import import1 from '../img/import1.avif'
+import import1 from '../img/import23.jpg'
 import import2 from '../img/import2.jpg'
 
 function Import

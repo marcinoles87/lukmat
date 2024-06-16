@@ -283,6 +283,17 @@ html{
   color:white;
 }
 
+.offer-one-card a{
+  font-size: large;
+  text-transform: uppercase;
+  text-decoration: none;
+  color:white;
+  margin: 10px;
+  padding: 10px;
+  border:2px solid rgb(56, 253, 227);
+  border-radius: 10px;
+}
+
 /*import*/
 
 .import-container{
