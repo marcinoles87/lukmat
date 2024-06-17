@@ -1,6 +1,8 @@
 import React from 'react'
 
-import castrol from '../img/audiLogo.png'
+import castrol from '../img/castrol.jpg'
+import shell from '../img/shell.jpg'
+import lotos from '../img/lotos.jpg'
 
 function Oleje() {
 
@@ -13,15 +15,15 @@ function Oleje() {
     } ,
 
     {
-      img :castrol ,
-      nazwa :'Castrol GTX' ,
+      img :shell ,
+      nazwa :'Shell GTX' ,
       pojemnosc : '1 L' ,
       cena : '99,99'
     } ,
 
     {
-      img :castrol ,
-      nazwa :'Castrol GTX' ,
+      img :lotos ,
+      nazwa :'Lotos GTX' ,
       pojemnosc : '1 L' ,
       cena : '99,99'
     } , 
@@ -59,8 +61,8 @@ function Oleje() {
             <div className='oleje-card-one' key={index}>
                 <img src={item.img} alt={item.index}></img>
                 <h1>{item.nazwa}</h1>
-                <p>{item.pojemnosc}</p>
-                <h3>{item.cena}</h3>
+                <p>Pojemnośc : {item.pojemnosc}</p>
+                <h3>Cena : {item.cena}</h3>
               </div>
           )
         })}
