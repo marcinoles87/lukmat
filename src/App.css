@@ -369,6 +369,27 @@ html{
   color:var(--main-color)
 }
 
+/* oleje*/
+
+.oleje-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.oleje-cards-sell{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+.oleje-card-one{
+  
+}
+
 
 
 
