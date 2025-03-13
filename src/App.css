@@ -452,6 +452,15 @@ html{
     text-align: center;
     }
 
+
+    .offer-cards{
+      flex-direction: column;
+    }
+
+    .offer-one-card{
+      width: 100vw;
+    }
+
   }
 
 
