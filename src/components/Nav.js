@@ -11,12 +11,12 @@ function Nav() {
 
       <div className='nav-link-container'>
         <ul>
-        <a href='#oNas' className='nav-link-item'>O Nas</a>
-        <a href='#Marki'  className='nav-link-item'>Nasze Marki</a>
-        <a href='#oNas'  className='nav-link-item'>Co robimy</a>
-        <a href='#Czesci'  className='nav-link-item'>Części</a>
-        <a href='#Import'  className='nav-link-item'>Sprowadzanie aut z Francji</a>
-        <a href='#Kontakt'  className='nav-link-item'>Kontakt</a>
+          <li><a href='#oNas' className='nav-link-item'>O Nas</a></li>
+        <li><a href='#Marki'  className='nav-link-item'>Nasze Marki</a></li>
+        <li><a href='#oNas'  className='nav-link-item'>Co robimy</a></li>
+        <li><a href='#Czesci'  className='nav-link-item'>Części</a></li>
+        <li><a href='#Import'  className='nav-link-item'>Sprowadzanie aut z Francji</a></li>
+        <li><a href='#Kontakt'  className='nav-link-item'>Kontakt</a></li>
         </ul>
         
        
