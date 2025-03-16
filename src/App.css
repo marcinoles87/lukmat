@@ -464,6 +464,20 @@ html{
     text-align: center;
     }
 
+    .header-info{
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .header-text{
+      position: relative;
+    }
+
+    .header-info-back img{
+      position: relative;;
+    }
+
 
     .offer-cards{
       flex-direction: column;
