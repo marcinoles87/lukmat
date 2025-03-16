@@ -427,6 +427,7 @@ html{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
   }
 
   .nav-logo-container{
@@ -438,6 +439,13 @@ html{
   .nav-link-container ul{
     display: flex;
     flex-direction: column;
+    text-align: center;
+    border: none;
+
+  }
+
+  .nav-link-container ul li a{
+    text-decoration: none;
   }
 
 
