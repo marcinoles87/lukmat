@@ -448,6 +448,10 @@ html{
     text-decoration: none;
   }
 
+  .brands-container{
+    animation:slider 5s infinite;
+  }
+
 
   .main-container{
     position: relative;
@@ -468,6 +472,15 @@ html{
     .offer-one-card{
       width: 100vw;
     }
+
+  }
+
+
+  @keyframes slider {
+
+    0%{transform: translateX(0px);}
+    100%{transform: translateX(200px);}
+
 
   }
 
