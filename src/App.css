@@ -449,7 +449,7 @@ html{
   }
 
   .brands-container{
-    animation:slider 5s infinite;
+    animation:slider 20s infinite;
   }
 
 
@@ -479,7 +479,9 @@ html{
   @keyframes slider {
 
     0%{transform: translateX(0px);}
-    100%{transform: translateX(200px);}
+    40%{transform: translateX(400px);}
+    75%{transform: translateX(-400px);}
+    100%{transform: translateX(400px);}
 
 
   }
