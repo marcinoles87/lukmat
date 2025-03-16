@@ -471,11 +471,20 @@ html{
     }
 
     .header-text{
+      width: 100%;
+      padding: 10px;
       position: relative;
+      top: 100px;
+      left: 0;
+      text-align: center;
+    }
+
+    .header-text h1{
+      text-align: center;
     }
 
     .header-info-back img{
-      position: relative;;
+      display: none;
     }
 
 
