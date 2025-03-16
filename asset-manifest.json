@@ -1,29 +1,34 @@
 {
   "files": {
-    "main.css": "/lukmat/static/css/main.2800341b.css",
-    "main.js": "/lukmat/static/js/main.10466784.js",
+    "main.css": "/lukmat/static/css/main.e7091d76.css",
+    "main.js": "/lukmat/static/js/main.be24d6e1.js",
     "static/js/453.d54b5b65.chunk.js": "/lukmat/static/js/453.d54b5b65.chunk.js",
     "static/media/main_background.jpg": "/lukmat/static/media/main_background.4677b2e32dbb250df144.jpg",
     "static/media/header_background.jpg": "/lukmat/static/media/header_background.c424c5255fa5dcebbdd7.jpg",
+    "static/media/trw.jpg": "/lukmat/static/media/trw.7f2a43c74a377372a9e3.jpg",
     "static/media/hondaLogo.png": "/lukmat/static/media/hondaLogo.a1b1a8f48c87b66526da.png",
     "static/media/toyotaLogo.png": "/lukmat/static/media/toyotaLogo.379ca0868131ec81bb65.png",
     "static/media/peugeotLogo2.png": "/lukmat/static/media/peugeotLogo2.5e184880ac043ebd2a95.png",
     "static/media/opony.jpg": "/lukmat/static/media/opony.c10e797722ea801afeca.jpg",
+    "static/media/import23.jpg": "/lukmat/static/media/import23.e8816d53be9ed7f7f457.jpg",
     "static/media/hamulce.jpg": "/lukmat/static/media/hamulce.1a865ceb3a9aeeb25dc9.jpg",
     "static/media/audiLogo.png": "/lukmat/static/media/audiLogo.2473983e20bfd27d596c.png",
+    "static/media/hamulce1.jpg": "/lukmat/static/media/hamulce1.e9793f3b112555a928ff.jpg",
     "static/media/import2.jpg": "/lukmat/static/media/import2.b0807a55614862ed93cb.jpg",
+    "static/media/shell.jpg": "/lukmat/static/media/shell.5bcffb2d2d32afe5dc7a.jpg",
     "static/media/olej.jpg": "/lukmat/static/media/olej.e7ec2f9b9cd56e0c222b.jpg",
     "static/media/logo2.png": "/lukmat/static/media/logo2.0060a40fcb02bdee6e61.png",
     "static/media/bmwLogo.png": "/lukmat/static/media/bmwLogo.42965fcc512c4b8f79b7.png",
-    "static/media/import1.avif": "/lukmat/static/media/import1.25d777e05b723135c818.avif",
+    "static/media/lotos.jpg": "/lukmat/static/media/lotos.8443a837fb62c3de3841.jpg",
+    "static/media/castrol.jpg": "/lukmat/static/media/castrol.0f3db42ae172585898f8.jpg",
     "static/media/renaultLogo.jpg": "/lukmat/static/media/renaultLogo.361d13e9195baf6dd8d5.jpg",
     "index.html": "/lukmat/index.html",
-    "main.2800341b.css.map": "/lukmat/static/css/main.2800341b.css.map",
-    "main.10466784.js.map": "/lukmat/static/js/main.10466784.js.map",
+    "main.e7091d76.css.map": "/lukmat/static/css/main.e7091d76.css.map",
+    "main.be24d6e1.js.map": "/lukmat/static/js/main.be24d6e1.js.map",
     "453.d54b5b65.chunk.js.map": "/lukmat/static/js/453.d54b5b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2800341b.css",
-    "static/js/main.10466784.js"
+    "static/css/main.e7091d76.css",
+    "static/js/main.be24d6e1.js"
   ]
 }
