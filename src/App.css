@@ -496,6 +496,20 @@ html{
       width: 100vw;
     }
 
+    .footer-container{
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .contact{
+      width: auto;
+      font-size: 1rem;
+    }
+
+    .contact img{
+      width: 100%;
+    }
+
   }
 
 
