@@ -494,6 +494,7 @@ html{
 
     .offer-one-card{
       width: 100vw;
+      margin: 6px;
     }
 
     .footer-container{
@@ -508,6 +509,11 @@ html{
 
     .footer-container div img{
       width: 100%;
+    }
+
+    .import-header{
+      margin: 10px;
+    text-align: center;
     }
 
   }
