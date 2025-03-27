@@ -35,8 +35,9 @@ html{
   display: flex;
   flex-direction: row;
   gap: 20px;
-  border-bottom:2px solid white;
 }
+
+
 
 .nav-link-container a{
   font-size: 1.4rem;
