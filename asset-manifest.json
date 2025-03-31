@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lukmat/static/css/main.0a627334.css",
-    "main.js": "/lukmat/static/js/main.be24d6e1.js",
+    "main.css": "/lukmat/static/css/main.0d0e6bdf.css",
+    "main.js": "/lukmat/static/js/main.a57e77cb.js",
     "static/js/453.d54b5b65.chunk.js": "/lukmat/static/js/453.d54b5b65.chunk.js",
     "static/media/main_background.jpg": "/lukmat/static/media/main_background.4677b2e32dbb250df144.jpg",
     "static/media/header_background.jpg": "/lukmat/static/media/header_background.c424c5255fa5dcebbdd7.jpg",
@@ -23,12 +23,12 @@
     "static/media/castrol.jpg": "/lukmat/static/media/castrol.0f3db42ae172585898f8.jpg",
     "static/media/renaultLogo.jpg": "/lukmat/static/media/renaultLogo.361d13e9195baf6dd8d5.jpg",
     "index.html": "/lukmat/index.html",
-    "main.0a627334.css.map": "/lukmat/static/css/main.0a627334.css.map",
-    "main.be24d6e1.js.map": "/lukmat/static/js/main.be24d6e1.js.map",
+    "main.0d0e6bdf.css.map": "/lukmat/static/css/main.0d0e6bdf.css.map",
+    "main.a57e77cb.js.map": "/lukmat/static/js/main.a57e77cb.js.map",
     "453.d54b5b65.chunk.js.map": "/lukmat/static/js/453.d54b5b65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a627334.css",
-    "static/js/main.be24d6e1.js"
+    "static/css/main.0d0e6bdf.css",
+    "static/js/main.a57e77cb.js"
   ]
 }
